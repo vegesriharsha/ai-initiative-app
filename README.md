@@ -2,6 +2,8 @@
 
 A simple web application to collect AI initiative ideas from teams across your organization.
 
+<img width="1796" height="977" alt="image" src="https://github.com/user-attachments/assets/17754b96-c536-468f-acb6-175203c3839b" />
+
 ## Project Structure
 
 ```
