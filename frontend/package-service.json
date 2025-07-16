@@ -1,0 +1,21 @@
+{
+  "name": "ai-initiative-frontend-service",
+  "version": "1.0.0",
+  "description": "Windows service wrapper for Angular development server",
+  "main": "service.js",
+  "scripts": {
+    "install-service": "node service.js --install",
+    "uninstall-service": "node service.js --uninstall",
+    "start-service": "node service.js --start",
+    "stop-service": "node service.js --stop",
+    "service": "node service.js"
+  },
+  "dependencies": {
+    "@angular/cli": "^17.0.0",
+    "node-windows": "^1.0.0-beta.8"
+  },
+  "devDependencies": {},
+  "keywords": ["angular", "windows-service", "development"],
+  "author": "Your Organization",
+  "license": "MIT"
+}
